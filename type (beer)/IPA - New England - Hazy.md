@@ -1,0 +1,2 @@
+is:: [[type]]
+of:: [[beer]]
