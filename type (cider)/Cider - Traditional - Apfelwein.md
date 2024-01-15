@@ -1,2 +1,0 @@
-is:: [[type]]
-from:: [[cider]]
