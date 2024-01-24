@@ -1,3 +1,5 @@
-is:: [[concept]]
-from:: [[liquor]]
-from:: [[place]]
+---
+is: "[[concept]]"
+from: "[[liquor]]"
+from: "[[place]]"
+---

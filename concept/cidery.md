@@ -1,3 +1,5 @@
-is:: [[concept]]
-from:: [[cider]]
-from:: [[place]]
+---
+is: "[[concept]]"
+from: "[[cider]]"
+from: "[[place]]"
+---
